@@ -1,0 +1,13 @@
+* Goal
+ Make it  easy to get off adictive websites when you decide you want to leave
+ 
+* How
+   + puts button at bottom of screen when on addictive websites
+
+** Wants     
+   + its currently broken into 2 create-react-apps; 1 for settings page , 1 for
+     inject script becuase they each require a differnt index.js injection method
+
+   + neeed to  run `npm run build-extenion` in each for it to build
+
+   + share common dependecies like chrome config.js

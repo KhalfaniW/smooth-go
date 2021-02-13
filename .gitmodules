@@ -1,0 +1,6 @@
+[submodule "settings-page"]
+	path = calm-web-extension-settings-page
+	url = ./calm-web-extension-settings-page/
+[submodule "main-inject-app"]
+	path = smooth-go
+	url = ./smooth-go/
