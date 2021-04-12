@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d21448e7.css",
+    "main.js": "/static/js/main.js",
+    "index.html": "/index.html",
+    "precache-manifest.27c4a4c83a408bc04283f03d590de8ac.js": "/precache-manifest.27c4a4c83a408bc04283f03d590de8ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/main.js.LICENSE.txt": "/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.d21448e7.css",
+    "static/js/main.js"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Create SmoothGo 1 ",
+  "version": "1.0.1",
+  "icons": {
+    "512": "logo512.png"
+  },
+    "background": {
+     "scripts": ["chrome/background.js"],
+    "persistent": true
+            
+    },
+  "browser_action": {
+    "default_icon": "logo512.png"
+  },
+  "permissions": ["activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://*/*", "http://*/*"],
+        "js": ["main/static/js/main.js"]
+    }
+  ]
+
+}
